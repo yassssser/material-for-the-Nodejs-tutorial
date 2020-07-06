@@ -1,0 +1,21 @@
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T15:23:04.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T15:23:06.659Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T16:27:32.329Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T16:27:32.553Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T16:38:08.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T16:38:08.513Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T17:39:21.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T17:39:21.220Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T17:43:09.863Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T17:43:09.962Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"5e9dded5543f1228b4e12a\" at path \"_id\" for model \"Movies\"","timestamp":"2020-04-21T17:47:48.402Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-21T18:03:40.088Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-21T18:03:40.223Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-22T15:18:16.271Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-04-22T15:25:33.862Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-04-22T15:25:33.939Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-05-29T14:53:03.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-05-29T14:53:03.241Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-06-06T15:47:00.566Z"}
+{"level":"info","message":"Listening on port 6000...","timestamp":"2020-06-06T15:52:58.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/films...","timestamp":"2020-06-06T15:52:59.072Z"}

@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "project_jwtPrivetKey",
+    "db": "mongodb://localhost/films_test"
+}

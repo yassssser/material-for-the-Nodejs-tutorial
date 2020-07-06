@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "project_jwtPrivateKey",
+    "db": "mongodb+srv://film_user:Yb123456@cluster0-n0aqd.azure.mongodb.net/test?retryWrites=true&w=majority"
+}
